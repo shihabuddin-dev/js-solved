@@ -1,1 +1,1 @@
-**Java Script Problem Polved**
+**Java Script Problem Solved**
