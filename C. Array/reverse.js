@@ -6,4 +6,4 @@ Output:
 ['orange', 'yellow', 'green', 'blue', 'red'] **/
 
 let colors = ['red', 'blue', 'green', 'yellow', 'orange'];
-console.log(colors.reverse);
+console.log(colors.reverse());
