@@ -8,4 +8,4 @@ Output: "I am a hard working person"
 */
 const statement = "I am a hard working person";
 let reverseStatement = statement.split(" ").reverse().join(" ");
-console.log(reverseStatement);
+console.log(`"${reverseStatement}"`);

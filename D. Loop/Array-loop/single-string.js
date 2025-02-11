@@ -10,13 +10,13 @@ Output: 'TomTimTinTik'
 let names = ['Tom', 'Tim', 'Tin', 'Tik'];
 
 // Solution-1 
-let newArray = '';
+let newString = '';
 for (let name of names) {
-    newArray += name
+    newString += name
 }
-console.log(newArray);
+console.log(`"${newString}"`);
 
 
 // Solution-2 (Short)
 let addAllName = names.join('');
-console.log(addAllName);
+console.log(`'${addAllName}'`);
