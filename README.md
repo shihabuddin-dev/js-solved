@@ -45,8 +45,8 @@ Contributions are welcome! If you have any additional solutions or improvements,
 
 ## 📞 Contact
 💡 Developed by **Shihab** 🚀  
-😎 Facebook: [Shihab Uddin]((https://www.facebook.com/shihabuddinReal/))  
-👨🏅 LinkedIn: [Shihab Uddin]((https://www.linkedin.com/in/shihabuddinreal))
+😎 Facebook: [Shihab Uddin](https://www.facebook.com/shihabuddinReal/) 
+👨🏅 LinkedIn: [Shihab Uddin](https://www.linkedin.com/in/shihabuddinreal)
 🐙 GitHub: [Shihabuddin-dev](https://github.com/shihabuddin-dev)
 
 ---
