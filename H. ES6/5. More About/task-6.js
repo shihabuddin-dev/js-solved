@@ -4,3 +4,6 @@ const greet = ???;
 console.log(greet()); // Hello, Alice! console.log(greet("Bob")); // Hello, Bob!
 //  
 // */
+const greet = (greet = 'Alice!') => `Hello ${greet}!`
+console.log(greet());
+console.log(greet("Bob"))
